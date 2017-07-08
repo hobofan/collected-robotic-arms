@@ -1,8 +1,8 @@
 [[robotic_arms]]
 name = "Dobot"
 description = """
-Arduino-based, 4-axis parallel-mechanism Robot Arm.
-0.2mm precision
+> Arduino-based, 4-axis parallel-mechanism Robot Arm.
+> 0.2mm precision
 
 Funded via Kickstarter. DISCONTINUED
 """
@@ -24,7 +24,7 @@ Funded via Kickstarter.
 [[robotic_arms]]
 name = "7Bot"
 description = """
-\"A low cost Robotic Arm that can See, Think and Learn!\"
+> A low cost Robotic Arm that can See, Think and Learn!
 
 Funded via Kickstarter.
 """
@@ -40,9 +40,9 @@ Funded via Kickstarter.
 [[robotic_arms]]
 name = "uArm"
 description = """
-\"uArm: Put a Miniature Industrial Robot Arm on Your Desk\"
-
-\"uArm is an Arduino-powered desktop 4-axis parallel-mechanism robot arm, modeled after the ABB industrial PalletPack robot.\"
+> uArm: Put a Miniature Industrial Robot Arm on Your Desk
+>
+> uArm is an Arduino-powered desktop 4-axis parallel-mechanism robot arm, modeled after the ABB industrial PalletPack robot.
 
 Funded via Kickstarter.
 """
@@ -58,9 +58,9 @@ Funded via Kickstarter.
 [[robotic_arms]]
 name = "Niryo One"
 description = """
-\"Niryo One, an open source 6 axis robotic arm, just for you\"
-
-\"Niryo One is an accessible connected 6 axis robotic arm, powered by Arduino, Raspberry Pi and ROS. Use it at home, at work, at school!\"
+> Niryo One, an open source 6 axis robotic arm, just for you
+>
+> Niryo One is an accessible connected 6 axis robotic arm, powered by Arduino, Raspberry Pi and ROS. Use it at home, at work, at school!
 
 Funded via Kickstarter.
 """
@@ -76,7 +76,7 @@ Funded via Kickstarter.
 [[robotic_arms]]
 name = "Thor"
 description = """
-\"Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.\"
+> Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
 
 Started out as a university project.
 """
@@ -92,9 +92,9 @@ Started out as a university project.
 [[robotic_arms]]
 name = "BetaBots-Robot-Arm-Project"
 description = """
-\"My printable robot arm is inspired by the well known industry robots, but printable.
+> My printable robot arm is inspired by the well known industry robots, but printable.
 The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
-The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy. \"
+The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy.
 """
 
   [[robotic_arms.links]]
@@ -112,7 +112,7 @@ The arm should lift about 2 kg enough to perform every day tasks. Currently robo
 [[robotic_arms]]
 name = "BCN3D Moveo"
 description = """
-\"Open Source 3D Printed Robotic Arm for educational purposes\"
+> Open Source 3D Printed Robotic Arm for educational purposes
 
 Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
 """
@@ -124,3 +124,45 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   [[robotic_arms.links]]
   name = "Announcement blog post"
   href = "https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/"
+
+[[robotic_arms]]
+name = "Lite Arm i2"
+description = """
+> Open Source Robotic Arm
+"""
+
+  [[robotic_arms.links]]
+  name = "Thingiverse"
+  href = "https://www.thingiverse.com/thing:480446"
+
+
+[[robotic_arms]]
+name = "Robotic arm with 6 DOF by ancastrog"
+description = """
+> This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
+"""
+
+  [[robotic_arms.links]]
+  name = "Thingiverse"
+  href = "https://www.thingiverse.com/thing:30163"
+
+[[robotic_arms]]
+name = "Robotic arm with 7 servos by jjshortcut"
+description = """
+> Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
+"""
+
+  [[robotic_arms.links]]
+  name = "Thingiverse"
+  href = "https://www.thingiverse.com/thing:2433"
+
+
+[[robotic_arms]]
+name = "Scara robotic arm by Idegraaf"
+description = """
+> Scara robotic arm for educational purposes.
+"""
+
+  [[robotic_arms.links]]
+  name = "Thingiverse"
+  href = "https://www.thingiverse.com/thing:1241491"
