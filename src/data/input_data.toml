@@ -1,15 +1,14 @@
-[[robotic_arms]]
-name = "Dobot"
-description = """
-> Arduino-based, 4-axis parallel-mechanism Robot Arm.
-> 0.2mm precision
-
-Funded via Kickstarter. DISCONTINUED
-"""
-
-  [[robotic_arms.links]]
-  name = "Kickstarter"
-  href = "https://www.kickstarter.com/projects/dobot/dobot-robotic-arm-for-everyone-arduino-and-open-so"
+# robotic_arms:
+#   name: Name of the project.
+#         If the name of the project is very generic, the name of the user that created it should be included.
+#   description: Description of the project.
+#                Parts of the original project description can be used, but should be put into quotes.
+#   links: The most important links regarding the project.
+#   open_hardware_files_available ("Yes"|"No"):
+#     Wether the files required for manufacturing are available (e.g. STLs).
+#   open_hardware_files_formats
+#   open_hardware_source_available (bookean): Wether the files required to generate the manufacturing files are available (OpenSCAD, FreeCad or other CAD formats).
+#   open_hardware_source_formats
 
 [[robotic_arms]]
 name = "Dobot M1"
@@ -80,6 +79,10 @@ description = """
 
 Started out as a university project.
 """
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STEP", "STL"]
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = ["FreeCAD"]
 
   [[robotic_arms.links]]
   name = "Github repo"

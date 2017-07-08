@@ -12,21 +12,17 @@
 ## Robotic Arms
 
 
-  ### Dobot
-  > Arduino-based, 4-axis parallel-mechanism Robot Arm.
-> 0.2mm precision
-
-Funded via Kickstarter. DISCONTINUED
-
-
-  Links:
-  
-  -  [Kickstarter](https://www.kickstarter.com/projects/dobot/dobot-robotic-arm-for-everyone-arduino-and-open-so)
-  
-
   ### Dobot M1
   Funded via Kickstarter.
 
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
 
   Links:
   
@@ -38,6 +34,14 @@ Funded via Kickstarter. DISCONTINUED
 
 Funded via Kickstarter.
 
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
 
   Links:
   
@@ -54,6 +58,14 @@ Funded via Kickstarter.
 Funded via Kickstarter.
 
 
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
   Links:
   
   -  [Company website](http://ufactory.cc/)
@@ -69,6 +81,14 @@ Funded via Kickstarter.
 Funded via Kickstarter.
 
 
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
   Links:
   
   -  [Company website](https://www.niryo.com)
@@ -82,6 +102,14 @@ Funded via Kickstarter.
 Started out as a university project.
 
 
+  Open Hardware files available: **Yes**
+
+  Open Hardware files formats: STEP,STL
+
+  Open Hardware source available: **Yes**
+
+  Open Hardware source formats: FreeCAD
+
   Links:
   
   -  [Github repo](https://github.com/AngelLM/Thor)
@@ -94,6 +122,14 @@ Started out as a university project.
 The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
 The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy.
 
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
 
   Links:
   
@@ -110,6 +146,14 @@ The arm should lift about 2 kg enough to perform every day tasks. Currently robo
 Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
 
 
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
   Links:
   
   -  [Github repo](https://github.com/BCN3D/BCN3D-Moveo)
@@ -121,6 +165,14 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   > Open Source Robotic Arm
 
 
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:480446)
@@ -129,6 +181,14 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   ### Robotic arm with 6 DOF by ancastrog
   > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
 
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
 
   Links:
   
@@ -139,6 +199,14 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
 
 
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:2433)
@@ -147,6 +215,14 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   ### Scara robotic arm by Idegraaf
   > Scara robotic arm for educational purposes.
 
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
 
   Links:
   

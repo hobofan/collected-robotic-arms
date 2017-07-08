@@ -15,6 +15,14 @@
   ### {{ this.name }}
   {{{this.description}}}
 
+  Open Hardware files available: {{#if this.open_hardware_files_available }}{{this.open_hardware_files_available}}{{else}}Unknown{{/if}}
+
+  {{#if this.open_hardware_files_formats }}Open Hardware files formats: {{this.open_hardware_files_formats}}{{/if}}
+
+  Open Hardware source available: {{#if this.open_hardware_source_available }}{{this.open_hardware_source_available}}{{else}}Unknown{{/if}}
+
+  {{#if this.open_hardware_source_formats }}Open Hardware source formats: {{this.open_hardware_source_formats}}{{/if}}
+
   Links:
   {{#each this.links }}
   -  [{{this.name}}]({{this.href}})
