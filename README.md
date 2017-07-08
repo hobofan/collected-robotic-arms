@@ -3,6 +3,34 @@
 
 > Contrary to a "awesome" list, this document does not intend to "curate" the listed items.
 
+## Table of Contents
+- [Resources](#resources)
+- [Robotic Arms](#robotic-arms)
+  
+  - [Dobot M1](#dobot-m1)
+  
+  - [7Bot](#7bot)
+  
+  - [uArm](#uarm)
+  
+  - [Niryo One](#niryo-one)
+  
+  - [Thor](#thor)
+  
+  - [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
+  
+  - [BCN3D Moveo](#bcn3d-moveo)
+  
+  - [Lite Arm i2](#lite-arm-i2)
+  
+  - [Robotic arm with 6 DOF by ancastrog](#robotic-arm-with-6-dof-by-ancastrog)
+  
+  - [Robotic arm with 7 servos by jjshortcut](#robotic-arm-with-7-servos-by-jjshortcut)
+  
+  - [Scara robotic arm by Idegraaf](#scara-robotic-arm-by-idegraaf)
+  
+
+
 ## Resources
 
 - [robotarm.org](https://robotarm.org/) - Open Source robotic arm news

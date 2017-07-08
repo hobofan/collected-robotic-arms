@@ -1,4 +1,5 @@
 # robotic_arms:
+#   id: Id that can be used to create an anchor tag.
 #   name: Name of the project.
 #         If the name of the project is very generic, the name of the user that created it should be included.
 #   description: Description of the project.
@@ -11,6 +12,7 @@
 #   open_hardware_source_formats
 
 [[robotic_arms]]
+id = "dobot-m1"
 name = "Dobot M1"
 description = """
 Funded via Kickstarter.
@@ -21,6 +23,7 @@ Funded via Kickstarter.
   href = "https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses"
 
 [[robotic_arms]]
+id = "7bot"
 name = "7Bot"
 description = """
 > A low cost Robotic Arm that can See, Think and Learn!
@@ -37,6 +40,7 @@ Funded via Kickstarter.
   href = "https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven"
 
 [[robotic_arms]]
+id = "uarm"
 name = "uArm"
 description = """
 > uArm: Put a Miniature Industrial Robot Arm on Your Desk
@@ -55,6 +59,7 @@ Funded via Kickstarter.
   href = "https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your"
 
 [[robotic_arms]]
+id = "niryo-one"
 name = "Niryo One"
 description = """
 > Niryo One, an open source 6 axis robotic arm, just for you
@@ -73,6 +78,7 @@ Funded via Kickstarter.
   href = "https://www.kickstarter.com/projects/niryo/niryo-one-an-open-source-6-axis-robotic-arm-just-f"
 
 [[robotic_arms]]
+id = "thor"
 name = "Thor"
 description = """
 > Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
@@ -93,6 +99,7 @@ open_hardware_source_formats = ["FreeCAD"]
   href = "https://www.thingiverse.com/thing:1743075"
 
 [[robotic_arms]]
+id = "betabots-robot-arm-project"
 name = "BetaBots-Robot-Arm-Project"
 description = """
 > My printable robot arm is inspired by the well known industry robots, but printable.
@@ -113,6 +120,7 @@ The arm should lift about 2 kg enough to perform every day tasks. Currently robo
   href = "https://www.thingiverse.com/thing:1743075"
 
 [[robotic_arms]]
+id = "bcn3d-moveo"
 name = "BCN3D Moveo"
 description = """
 > Open Source 3D Printed Robotic Arm for educational purposes
@@ -129,6 +137,7 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   href = "https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/"
 
 [[robotic_arms]]
+id = "lite-arm-i2"
 name = "Lite Arm i2"
 description = """
 > Open Source Robotic Arm
@@ -140,6 +149,7 @@ description = """
 
 
 [[robotic_arms]]
+id = "robotic-arm-with-6-dof-by-ancastrog"
 name = "Robotic arm with 6 DOF by ancastrog"
 description = """
 > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
@@ -150,6 +160,7 @@ description = """
   href = "https://www.thingiverse.com/thing:30163"
 
 [[robotic_arms]]
+id = "robotic-arm-with-7-servos-by-jjshortcut"
 name = "Robotic arm with 7 servos by jjshortcut"
 description = """
 > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
@@ -161,6 +172,7 @@ description = """
 
 
 [[robotic_arms]]
+id = "scara-robotic-arm-by-idegraaf"
 name = "Scara robotic arm by Idegraaf"
 description = """
 > Scara robotic arm for educational purposes.
