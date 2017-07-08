@@ -72,3 +72,55 @@ Funded via Kickstarter.
   [[robotic_arms.links]]
   name = "Kickstarter"
   href = "https://www.kickstarter.com/projects/niryo/niryo-one-an-open-source-6-axis-robotic-arm-just-f"
+
+[[robotic_arms]]
+name = "Thor"
+description = """
+\"Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.\"
+
+Started out as a university project.
+"""
+
+  [[robotic_arms.links]]
+  name = "Github repo"
+  href = "https://github.com/AngelLM/Thor"
+
+  [[robotic_arms.links]]
+  name = "Thingiverse"
+  href = "https://www.thingiverse.com/thing:1743075"
+
+[[robotic_arms]]
+name = "BetaBots-Robot-Arm-Project"
+description = """
+\"My printable robot arm is inspired by the well known industry robots, but printable.
+The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
+The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy. \"
+"""
+
+  [[robotic_arms.links]]
+  name = "Github repo"
+  href = "https://github.com/4ndreas/BetaBots-Robot-Arm-Project"
+
+  [[robotic_arms.links]]
+  name = "Hackaday project"
+  href = "https://hackaday.io/project/3800-3d-printable-robot-arm"
+
+  [[robotic_arms.links]]
+  name = "Thingiverse"
+  href = "https://www.thingiverse.com/thing:1743075"
+
+[[robotic_arms]]
+name = "BCN3D Moveo"
+description = """
+\"Open Source 3D Printed Robotic Arm for educational purposes\"
+
+Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
+"""
+
+  [[robotic_arms.links]]
+  name = "Github repo"
+  href = "https://github.com/BCN3D/BCN3D-Moveo"
+
+  [[robotic_arms.links]]
+  name = "Announcement blog post"
+  href = "https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/"
