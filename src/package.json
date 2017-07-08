@@ -1,0 +1,10 @@
+{
+  "name": "toml-templated",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars-cmd": "^0.1.4",
+    "toml-cli": "^1.0.1"
+  }
+}

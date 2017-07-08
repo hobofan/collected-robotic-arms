@@ -1,0 +1,74 @@
+[[robotic_arms]]
+name = "Dobot"
+description = """
+Arduino-based, 4-axis parallel-mechanism Robot Arm.
+0.2mm precision
+
+Funded via Kickstarter. DISCONTINUED
+"""
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/dobot/dobot-robotic-arm-for-everyone-arduino-and-open-so"
+
+[[robotic_arms]]
+name = "Dobot M1"
+description = """
+Funded via Kickstarter.
+"""
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses"
+
+[[robotic_arms]]
+name = "7Bot"
+description = """
+\"A low cost Robotic Arm that can See, Think and Learn!\"
+
+Funded via Kickstarter.
+"""
+
+  [[robotic_arms.links]]
+  name = "Website"
+  href = "http://www.7bot.cc/"
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven"
+
+[[robotic_arms]]
+name = "uArm"
+description = """
+\"uArm: Put a Miniature Industrial Robot Arm on Your Desk\"
+
+\"uArm is an Arduino-powered desktop 4-axis parallel-mechanism robot arm, modeled after the ABB industrial PalletPack robot.\"
+
+Funded via Kickstarter.
+"""
+
+  [[robotic_arms.links]]
+  name = "Company website"
+  href = "http://ufactory.cc/"
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your"
+
+[[robotic_arms]]
+name = "Niryo One"
+description = """
+\"Niryo One, an open source 6 axis robotic arm, just for you\"
+
+\"Niryo One is an accessible connected 6 axis robotic arm, powered by Arduino, Raspberry Pi and ROS. Use it at home, at work, at school!\"
+
+Funded via Kickstarter.
+"""
+
+  [[robotic_arms.links]]
+  name = "Company website"
+  href = "https://www.niryo.com"
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/niryo/niryo-one-an-open-source-6-axis-robotic-arm-just-f"

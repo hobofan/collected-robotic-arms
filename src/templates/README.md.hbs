@@ -1,0 +1,13 @@
+# Collection of Robotic Arms
+
+> Contrary to a "awesome" list, this document does not intend to "curate" the listed items.
+
+{{#each robotic_arms }}
+  ### {{ this.name }}
+  {{this.description}}
+
+  Links:
+  {{#each this.links }}
+  -  [{{this.name}}]({{this.href}})
+  {{/each}}
+{{/each}}
