@@ -107,6 +107,11 @@ The goal is to develop a open source robot arm to use in private or small busine
 The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy.
 """
 
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STEP", "STL"]
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = ["Inventor"]
+
   [[robotic_arms.links]]
   name = "Github repo"
   href = "https://github.com/4ndreas/BetaBots-Robot-Arm-Project"
@@ -128,6 +133,11 @@ description = """
 Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
 """
 
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STL"]
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = ["Solidworks"]
+
   [[robotic_arms.links]]
   name = "Github repo"
   href = "https://github.com/BCN3D/BCN3D-Moveo"
@@ -143,6 +153,9 @@ description = """
 > Open Source Robotic Arm
 """
 
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STL"]
+
   [[robotic_arms.links]]
   name = "Thingiverse"
   href = "https://www.thingiverse.com/thing:480446"
@@ -155,6 +168,11 @@ description = """
 > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
 """
 
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STL"]
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = ["OpenSCAD", "FreeCAD (mounted arm)"]
+
   [[robotic_arms.links]]
   name = "Thingiverse"
   href = "https://www.thingiverse.com/thing:30163"
@@ -165,6 +183,11 @@ name = "Robotic arm with 7 servos by jjshortcut"
 description = """
 > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
 """
+
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STL"]
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = ["Solidworks"]
 
   [[robotic_arms.links]]
   name = "Thingiverse"
@@ -177,6 +200,11 @@ name = "Scara robotic arm by Idegraaf"
 description = """
 > Scara robotic arm for educational purposes.
 """
+
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STL"]
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = ["SketchUp"]
 
   [[robotic_arms.links]]
   name = "Thingiverse"

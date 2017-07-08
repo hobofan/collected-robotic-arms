@@ -151,13 +151,13 @@ The goal is to develop a open source robot arm to use in private or small busine
 The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy.
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: **Yes**
 
-  
+  Open Hardware files formats: STEP,STL
 
-  Open Hardware source available: Unknown
+  Open Hardware source available: **Yes**
 
-  
+  Open Hardware source formats: Inventor
 
   Links:
   
@@ -174,13 +174,13 @@ The arm should lift about 2 kg enough to perform every day tasks. Currently robo
 Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: **Yes**
 
-  
+  Open Hardware files formats: STL
 
-  Open Hardware source available: Unknown
+  Open Hardware source available: **Yes**
 
-  
+  Open Hardware source formats: Solidworks
 
   Links:
   
@@ -193,9 +193,9 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   > Open Source Robotic Arm
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: **Yes**
 
-  
+  Open Hardware files formats: STL
 
   Open Hardware source available: Unknown
 
@@ -210,13 +210,13 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: **Yes**
 
-  
+  Open Hardware files formats: STL
 
-  Open Hardware source available: Unknown
+  Open Hardware source available: **Yes**
 
-  
+  Open Hardware source formats: OpenSCAD,FreeCAD (mounted arm)
 
   Links:
   
@@ -227,13 +227,13 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: **Yes**
 
-  
+  Open Hardware files formats: STL
 
-  Open Hardware source available: Unknown
+  Open Hardware source available: **Yes**
 
-  
+  Open Hardware source formats: Solidworks
 
   Links:
   
@@ -244,13 +244,13 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   > Scara robotic arm for educational purposes.
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: **Yes**
 
-  
+  Open Hardware files formats: STL
 
-  Open Hardware source available: Unknown
+  Open Hardware source available: **Yes**
 
-  
+  Open Hardware source formats: SketchUp
 
   Links:
   
