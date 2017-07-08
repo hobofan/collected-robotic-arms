@@ -128,7 +128,10 @@ Funded via Kickstarter.
   ### Thor
   > Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
 
-Started out as a university project.
+6-axis arm with low build cost (~350€)
+
+Started out as a university project. Very well documented.
+
 
 
   Open Hardware files available: **Yes**
@@ -142,6 +145,8 @@ Started out as a university project.
   Links:
   
   -  [Github repo](https://github.com/AngelLM/Thor)
+  
+  -  [Hackaday project](https://hackaday.io/project/12989-thor)
   
   -  [Thingiverse](https://www.thingiverse.com/thing:1743075)
   

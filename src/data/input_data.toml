@@ -83,7 +83,10 @@ name = "Thor"
 description = """
 > Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
 
-Started out as a university project.
+6-axis arm with low build cost (~350€)
+
+Started out as a university project. Very well documented.
+
 """
 open_hardware_files_available = "**Yes**"
 open_hardware_files_formats = ["STEP", "STL"]
@@ -93,6 +96,10 @@ open_hardware_source_formats = ["FreeCAD"]
   [[robotic_arms.links]]
   name = "Github repo"
   href = "https://github.com/AngelLM/Thor"
+
+  [[robotic_arms.links]]
+  name = "Hackaday project"
+  href = "https://hackaday.io/project/12989-thor"
 
   [[robotic_arms.links]]
   name = "Thingiverse"
