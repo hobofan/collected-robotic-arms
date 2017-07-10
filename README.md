@@ -41,6 +41,11 @@
 - [The Difference between Cartesian, Six-Axis, and SCARA Robots](http://www.machinedesign.com/motion-control/difference-between-cartesian-six-axis-and-scara-robots)
 - [List of arms supported by ROS (Robot Operating System)](http://robots.ros.org/tags/#arm)
 
+### Youtube channels and playlists
+
+- [6-Axis Robotic Arm playlist by Dr. D-Flo](https://www.youtube.com/playlist?list=PLZ9ac-f1U5V8V3izYgVTnEXoDkTjWdrdj)
+- [Youtube channel by Chris Annin](https://www.youtube.com/user/usernamseunavailable/) showcasing his [AR2 build](#ar2-by-chris-annin)
+
 ## Robotic Arms
 
 
