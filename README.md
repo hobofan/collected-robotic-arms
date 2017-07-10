@@ -29,6 +29,8 @@
   
   - [Scara robotic arm by Idegraaf](#scara-robotic-arm-by-idegraaf)
   
+  - [AR2 by Chris-Annin](#ar2-by-chris-annin)
+  
 - [Contributing](#contributing)
 
 
@@ -262,6 +264,28 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:1241491)
+  
+
+  ### AR2 by Chris-Annin
+  6-axis stepper motor robot.
+All parts are designed to be 3d printable or widely available.
+
+Documentation includes an assembly guide.
+
+Uses an Arduino as a stepper driver and includes a custom Python program and Windows GUI to control it.
+
+
+  Open Hardware files available: **Yes**
+
+  Open Hardware files formats: STL
+
+  Open Hardware source available: No
+
+  
+
+  Links:
+  
+  -  [Github repo](https://github.com/Chris-Annin/AR2)
   
 
 

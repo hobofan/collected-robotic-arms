@@ -216,3 +216,23 @@ open_hardware_source_formats = ["SketchUp"]
   [[robotic_arms.links]]
   name = "Thingiverse"
   href = "https://www.thingiverse.com/thing:1241491"
+
+[[robotic_arms]]
+id = "ar2-by-chris-annin"
+name = "AR2 by Chris-Annin"
+description = """
+6-axis stepper motor robot.
+All parts are designed to be 3d printable or widely available.
+
+Documentation includes an assembly guide.
+
+Uses an Arduino as a stepper driver and includes a custom Python program and Windows GUI to control it.
+"""
+
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = ["STL"]
+open_hardware_source_available = "No"
+
+  [[robotic_arms.links]]
+  name = "Github repo"
+  href = "https://github.com/Chris-Annin/AR2"
