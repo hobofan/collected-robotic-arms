@@ -31,6 +31,8 @@
   
   - [AR2 by Chris-Annin](#ar2-by-chris-annin)
   
+  - [Bender](#bender)
+  
 - [Contributing](#contributing)
 
 
@@ -291,6 +293,23 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
   Links:
   
   -  [Github repo](https://github.com/Chris-Annin/AR2)
+  
+
+  ### Bender
+  > A robot arm with an Open Source framework to develop useful applications
+
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
+  Links:
+  
+  -  [Github repo](http://www.rohitkalaskar.com/bender/)
   
 
 

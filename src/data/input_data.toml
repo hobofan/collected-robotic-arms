@@ -236,3 +236,14 @@ open_hardware_source_available = "No"
   [[robotic_arms.links]]
   name = "Github repo"
   href = "https://github.com/Chris-Annin/AR2"
+
+[[robotic_arms]]
+id = "bender"
+name = "Bender"
+description = """
+> A robot arm with an Open Source framework to develop useful applications
+"""
+
+  [[robotic_arms.links]]
+  name = "Github repo"
+  href = "http://www.rohitkalaskar.com/bender/"
