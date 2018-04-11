@@ -319,8 +319,8 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
 
 The code is licensed under either of
 
-    Apache License, Version 2.0, ([LICENSE-APACHE](./LICENSE-APACHE) or <http://www.apache.org/licenses/LICENSE-2.0>)
-    MIT license ([LICENSE-MIT](./LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
+ - Apache License, Version 2.0, ([LICENSE-APACHE](./LICENSE-APACHE) or <http://www.apache.org/licenses/LICENSE-2.0>)
+ - MIT license ([LICENSE-MIT](./LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
 
 The data collected in this repository is released as CC0-1.0 ([LICENSE-CC0](./LICENSE-CC0) or <https://creativecommons.org/publicdomain/zero/1.0/>)
 
