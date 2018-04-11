@@ -3,6 +3,8 @@
 
 > Contrary to a "awesome" list, this document does not intend to "curate" the listed items.
 
+You can also view the data [in table form!](./arms.tsv)
+
 ## Table of Contents
 - [Resources](#resources)
 - [Robotic Arms](#robotic-arms)
