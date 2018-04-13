@@ -13,7 +13,9 @@ You can also view the data [in table form!](./arms.tsv)
   
   - [7Bot](#7bot)
   
-  - [uArm](#uarm)
+  - [uArm Swift](#uarmswift)
+  
+  - [uArm Swift Pro](#uarmswiftpro)
   
   - [Niryo One](#niryo-one)
   
@@ -57,24 +59,30 @@ You can also view the data [in table form!](./arms.tsv)
   Funded via Kickstarter.
 
 
-  Open Hardware files available: Unknown
+  Open Hardware files available: No
 
   
 
-  Open Hardware source available: Unknown
+  Open Hardware source available: No
 
   
 
   Links:
   
+  -  [Website](https://www.dobot.cc/dobot-m1/product-overview.html)
+  
   -  [Kickstarter](https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses)
   
+
+  Updated: 2018-04-12
 
   ### 7Bot
   > A low cost Robotic Arm that can See, Think and Learn!
 
 Funded via Kickstarter.
 
+http://www.7bot.cc/ website dead
+
 
   Open Hardware files available: Unknown
 
@@ -86,18 +94,20 @@ Funded via Kickstarter.
 
   Links:
   
-  -  [Website](http://www.7bot.cc/)
-  
   -  [Kickstarter](https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven)
   
 
-  ### uArm
+  Updated: 2018-04-12
+
+  ### uArm Swift
   > uArm: Put a Miniature Industrial Robot Arm on Your Desk
 >
 > uArm is an Arduino-powered desktop 4-axis parallel-mechanism robot arm, modeled after the ABB industrial PalletPack robot.
 
 Funded via Kickstarter.
 
+The Kickstarter 'uArm' arm is not available anymore, and has been superceded by the 'uArm Swift' and 'uArm Swift Pro'.
+
 
   Open Hardware files available: Unknown
 
@@ -109,10 +119,37 @@ Funded via Kickstarter.
 
   Links:
   
-  -  [Company website](http://ufactory.cc/)
+  -  [Product page](http://www.ufactory.cc/#/en/uarmswift)
+  
+  -  [Company website](http://www.ufactory.cc/)
   
   -  [Kickstarter](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your)
   
+
+  Updated: 2018-04-12
+
+  ### uArm Swift Pro
+  Also see other arm listed here, the uArm Swift.
+
+
+  Open Hardware files available: Unknown
+
+  
+
+  Open Hardware source available: Unknown
+
+  
+
+  Links:
+  
+  -  [Product page](http://www.ufactory.cc/#/en/uarmswift)
+  
+  -  [Company website](http://www.ufactory.cc/)
+  
+  -  [Kickstarter](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your)
+  
+
+  Updated: 2018-04-12
 
   ### Niryo One
   > Niryo One, an open source 6 axis robotic arm, just for you
@@ -136,6 +173,8 @@ Funded via Kickstarter.
   
   -  [Kickstarter](https://www.kickstarter.com/projects/niryo/niryo-one-an-open-source-6-axis-robotic-arm-just-f)
   
+
+  Updated: 2018-04-12
 
   ### Thor
   > Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
@@ -163,6 +202,8 @@ Started out as a university project. Very well documented.
   -  [Thingiverse](https://www.thingiverse.com/thing:1743075)
   
 
+  Updated: 2018-04-12
+
   ### BetaBots-Robot-Arm-Project
   > My printable robot arm is inspired by the well known industry robots, but printable.
 The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
@@ -186,6 +227,8 @@ The arm should lift about 2 kg enough to perform every day tasks. Currently robo
   -  [Thingiverse](https://www.thingiverse.com/thing:1743075)
   
 
+  Updated: 2018-04-12
+
   ### BCN3D Moveo
   > Open Source 3D Printed Robotic Arm for educational purposes
 
@@ -207,6 +250,8 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   -  [Announcement blog post](https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/)
   
 
+  Updated: 2018-04-12
+
   ### Lite Arm i2
   > Open Source Robotic Arm
 
@@ -223,6 +268,8 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   
   -  [Thingiverse](https://www.thingiverse.com/thing:480446)
   
+
+  Updated: 2018-04-12
 
   ### Robotic arm with 6 DOF by ancastrog
   > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
@@ -241,6 +288,8 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   -  [Thingiverse](https://www.thingiverse.com/thing:30163)
   
 
+  Updated: 2018-04-12
+
   ### Robotic arm with 7 servos by jjshortcut
   > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
 
@@ -258,6 +307,8 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   -  [Thingiverse](https://www.thingiverse.com/thing:2433)
   
 
+  Updated: 2018-04-12
+
   ### Scara robotic arm by Idegraaf
   > Scara robotic arm for educational purposes.
 
@@ -274,6 +325,8 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   
   -  [Thingiverse](https://www.thingiverse.com/thing:1241491)
   
+
+  Updated: 2018-04-12
 
   ### AR2 by Chris-Annin
   6-axis stepper motor robot.
@@ -297,6 +350,8 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
   -  [Github repo](https://github.com/Chris-Annin/AR2)
   
 
+  Updated: 2018-04-12
+
   ### Bender
   > A robot arm with an Open Source framework to develop useful applications
 
@@ -313,6 +368,8 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
   
   -  [Github repo](http://www.rohitkalaskar.com/bender/)
   
+
+  Updated: 2018-04-12
 
 
 ## License

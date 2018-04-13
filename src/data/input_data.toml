@@ -10,49 +10,84 @@
 #   open_hardware_files_formats
 #   open_hardware_source_available (bookean): Wether the files required to generate the manufacturing files are available (OpenSCAD, FreeCad or other CAD formats).
 #   open_hardware_source_formats
+#   updated: date in YYYY-MM-DD format when information was added/updated/revised/confirmed
 
 [[robotic_arms]]
 id = "dobot-m1"
 name = "Dobot M1"
+open_hardware_files_available = "No"
+open_hardware_source_available = "No"
+updated = "2018-04-12"
 description = """
-Funded via Kickstarter.
-"""
-
-  [[robotic_arms.links]]
-  name = "Kickstarter"
-  href = "https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses"
-
-[[robotic_arms]]
-id = "7bot"
-name = "7Bot"
-description = """
-> A low cost Robotic Arm that can See, Think and Learn!
-
 Funded via Kickstarter.
 """
 
   [[robotic_arms.links]]
   name = "Website"
-  href = "http://www.7bot.cc/"
+  href = "https://www.dobot.cc/dobot-m1/product-overview.html"
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses"
+
+
+[[robotic_arms]]
+id = "7bot"
+name = "7Bot"
+updated = "2018-04-12"
+description = """
+> A low cost Robotic Arm that can See, Think and Learn!
+
+Funded via Kickstarter.
+
+http://www.7bot.cc/ website dead
+"""
 
   [[robotic_arms.links]]
   name = "Kickstarter"
   href = "https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven"
 
 [[robotic_arms]]
-id = "uarm"
-name = "uArm"
+id = "uarmswift"
+name = "uArm Swift"
+updated = "2018-04-12"
 description = """
 > uArm: Put a Miniature Industrial Robot Arm on Your Desk
 >
 > uArm is an Arduino-powered desktop 4-axis parallel-mechanism robot arm, modeled after the ABB industrial PalletPack robot.
 
 Funded via Kickstarter.
+
+The Kickstarter 'uArm' arm is not available anymore, and has been superceded by the 'uArm Swift' and 'uArm Swift Pro'.
 """
 
   [[robotic_arms.links]]
+  name = "Product page"
+  href = "http://www.ufactory.cc/#/en/uarmswift"
+
+  [[robotic_arms.links]]
   name = "Company website"
-  href = "http://ufactory.cc/"
+  href = "http://www.ufactory.cc/"
+
+  [[robotic_arms.links]]
+  name = "Kickstarter"
+  href = "https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your"
+
+[[robotic_arms]]
+id = "uarmswiftpro"
+name = "uArm Swift Pro"
+updated = "2018-04-12"
+description = """
+Also see other arm listed here, the uArm Swift.
+"""
+
+  [[robotic_arms.links]]
+  name = "Product page"
+  href = "http://www.ufactory.cc/#/en/uarmswift"
+
+  [[robotic_arms.links]]
+  name = "Company website"
+  href = "http://www.ufactory.cc/"
 
   [[robotic_arms.links]]
   name = "Kickstarter"
@@ -61,6 +96,7 @@ Funded via Kickstarter.
 [[robotic_arms]]
 id = "niryo-one"
 name = "Niryo One"
+updated = "2018-04-12"
 description = """
 > Niryo One, an open source 6 axis robotic arm, just for you
 >
@@ -80,6 +116,7 @@ Funded via Kickstarter.
 [[robotic_arms]]
 id = "thor"
 name = "Thor"
+updated = "2018-04-12"
 description = """
 > Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
 
@@ -108,6 +145,7 @@ open_hardware_source_formats = ["FreeCAD"]
 [[robotic_arms]]
 id = "betabots-robot-arm-project"
 name = "BetaBots-Robot-Arm-Project"
+updated = "2018-04-12"
 description = """
 > My printable robot arm is inspired by the well known industry robots, but printable.
 The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
@@ -134,6 +172,7 @@ open_hardware_source_formats = ["Inventor"]
 [[robotic_arms]]
 id = "bcn3d-moveo"
 name = "BCN3D Moveo"
+updated = "2018-04-12"
 description = """
 > Open Source 3D Printed Robotic Arm for educational purposes
 
@@ -156,6 +195,7 @@ open_hardware_source_formats = ["Solidworks"]
 [[robotic_arms]]
 id = "lite-arm-i2"
 name = "Lite Arm i2"
+updated = "2018-04-12"
 description = """
 > Open Source Robotic Arm
 """
@@ -171,6 +211,7 @@ open_hardware_files_formats = ["STL"]
 [[robotic_arms]]
 id = "robotic-arm-with-6-dof-by-ancastrog"
 name = "Robotic arm with 6 DOF by ancastrog"
+updated = "2018-04-12"
 description = """
 > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
 """
@@ -187,6 +228,7 @@ open_hardware_source_formats = ["OpenSCAD", "FreeCAD (mounted arm)"]
 [[robotic_arms]]
 id = "robotic-arm-with-7-servos-by-jjshortcut"
 name = "Robotic arm with 7 servos by jjshortcut"
+updated = "2018-04-12"
 description = """
 > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
 """
@@ -204,6 +246,7 @@ open_hardware_source_formats = ["Solidworks"]
 [[robotic_arms]]
 id = "scara-robotic-arm-by-idegraaf"
 name = "Scara robotic arm by Idegraaf"
+updated = "2018-04-12"
 description = """
 > Scara robotic arm for educational purposes.
 """
@@ -220,6 +263,7 @@ open_hardware_source_formats = ["SketchUp"]
 [[robotic_arms]]
 id = "ar2-by-chris-annin"
 name = "AR2 by Chris-Annin"
+updated = "2018-04-12"
 description = """
 6-axis stepper motor robot.
 All parts are designed to be 3d printable or widely available.
@@ -240,6 +284,7 @@ open_hardware_source_available = "No"
 [[robotic_arms]]
 id = "bender"
 name = "Bender"
+updated = "2018-04-12"
 description = """
 > A robot arm with an Open Source framework to develop useful applications
 """
