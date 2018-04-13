@@ -56,7 +56,7 @@ You can also view the data [in table form!](./arms.tsv)
 
 
   ### Dobot M1
-  Funded via Kickstarter.
+  Funded via Kickstarter. No way to purchase (other DOBOT arms, such as the Magician, are available for purchase)
 
 
   Open Hardware files available: No
@@ -81,7 +81,7 @@ You can also view the data [in table form!](./arms.tsv)
 
 Funded via Kickstarter.
 
-http://www.7bot.cc/ website dead
+http://www.7bot.cc/ website dead; no way to purchase
 
 
   Open Hardware files available: Unknown
@@ -156,7 +156,7 @@ The Kickstarter 'uArm' arm is not available anymore, and has been superceded by 
 >
 > Niryo One is an accessible connected 6 axis robotic arm, powered by Arduino, Raspberry Pi and ROS. Use it at home, at work, at school!
 
-Funded via Kickstarter.
+Funded via Kickstarter. Can be 'pre-ordered' from online store, but store also indicates that 'Niryo One will be officially released soon' -- marking this as not purchasable for now.
 
 
   Open Hardware files available: Unknown
@@ -209,6 +209,8 @@ Started out as a university project. Very well documented.
 The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
 The arm should lift about 2 kg enough to perform every day tasks. Currently robot arms are expensive or small and weak, or clumpy.
 
+Last update on GitHub in 2016.
+
 
   Open Hardware files available: **Yes**
 
@@ -234,6 +236,8 @@ The arm should lift about 2 kg enough to perform every day tasks. Currently robo
 
 Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project)
 
+Last update on GitHub in 2016.
+
 
   Open Hardware files available: **Yes**
 
@@ -254,6 +258,8 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
 
   ### Lite Arm i2
   > Open Source Robotic Arm
+
+Last update on Thingiverse in 2015.
 
 
   Open Hardware files available: **Yes**
@@ -310,7 +316,7 @@ Originally based on the [BetaBots-Robot-Arm-Project](#betabots-robot-arm-project
   Updated: 2018-04-12
 
   ### Scara robotic arm by Idegraaf
-  > Scara robotic arm for educational purposes.
+  > Scara robotic arm for educational purposes. Not tested yet.
 
 
   Open Hardware files available: **Yes**
@@ -336,6 +342,8 @@ Documentation includes an assembly guide.
 
 Uses an Arduino as a stepper driver and includes a custom Python program and Windows GUI to control it.
 
+Kickstarter announced for project in March 2018. Marking this as not purchasable for now.
+
 
   Open Hardware files available: **Yes**
 
@@ -347,6 +355,8 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
 
   Links:
   
+  -  [Kickstarter](https://www.kickstarter.com/projects/406097865/ar2-6-axis-robot-aluminum-parts-kits)
+  
   -  [Github repo](https://github.com/Chris-Annin/AR2)
   
 
@@ -354,6 +364,8 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
 
   ### Bender
   > A robot arm with an Open Source framework to develop useful applications
+
+Last update on GitHub in 2015.
 
 
   Open Hardware files available: Unknown
@@ -366,7 +378,9 @@ Uses an Arduino as a stepper driver and includes a custom Python program and Win
 
   Links:
   
-  -  [Github repo](http://www.rohitkalaskar.com/bender/)
+  -  [Website](http://www.rohitkalaskar.com/bender/)
+  
+  -  [Github repo](https://github.com/OpenArmFramework/bender_description)
   
 
   Updated: 2018-04-12
