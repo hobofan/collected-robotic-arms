@@ -1,14 +1,15 @@
-name	OH files	OH files formats	OH source	OH source formats	href
-Dobot M1					
-7Bot					https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven
-uArm					https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your
-Niryo One					https://www.kickstarter.com/projects/niryo/niryo-one-an-open-source-6-axis-robotic-arm-just-f
-Thor	**Yes**	STEP,STL	**Yes**	FreeCAD	https://hackaday.io/project/12989-thor
-BetaBots-Robot-Arm-Project	**Yes**	STEP,STL	**Yes**	Inventor	https://hackaday.io/project/3800-3d-printable-robot-arm
-BCN3D Moveo	**Yes**	STL	**Yes**	Solidworks	https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/
-Lite Arm i2	**Yes**	STL			
-Robotic arm with 6 DOF by ancastrog	**Yes**	STL	**Yes**	OpenSCAD,FreeCAD (mounted arm)	
-Robotic arm with 7 servos by jjshortcut	**Yes**	STL	**Yes**	Solidworks	
-Scara robotic arm by Idegraaf	**Yes**	STL	**Yes**	SketchUp	
-AR2 by Chris-Annin	**Yes**	STL	No		
-Bender					
+name	OH files	OH files formats	OH source	OH source formats	href	updated
+Dobot M1	No		No		https://www.dobot.cc/dobot-m1/product-overview.html	2018-04-12
+7Bot					https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven	2018-04-12
+uArm Swift					http://www.ufactory.cc/#/en/uarmswift	2018-04-12
+uArm Swift Pro					http://www.ufactory.cc/#/en/uarmswift	2018-04-12
+Niryo One					https://www.niryo.com	2018-04-12
+Thor	**Yes**	STEP,STL	**Yes**	FreeCAD	https://github.com/AngelLM/Thor	2018-04-12
+BetaBots-Robot-Arm-Project	**Yes**	STEP,STL	**Yes**	Inventor	https://github.com/4ndreas/BetaBots-Robot-Arm-Project	2018-04-12
+BCN3D Moveo	**Yes**	STL	**Yes**	Solidworks	https://github.com/BCN3D/BCN3D-Moveo	2018-04-12
+Lite Arm i2	**Yes**	STL			https://www.thingiverse.com/thing:480446	2018-04-12
+Robotic arm with 6 DOF by ancastrog	**Yes**	STL	**Yes**	OpenSCAD,FreeCAD (mounted arm)	https://www.thingiverse.com/thing:30163	2018-04-12
+Robotic arm with 7 servos by jjshortcut	**Yes**	STL	**Yes**	Solidworks	https://www.thingiverse.com/thing:2433	2018-04-12
+Scara robotic arm by Idegraaf	**Yes**	STL	**Yes**	SketchUp	https://www.thingiverse.com/thing:1241491	2018-04-12
+AR2 by Chris-Annin	**Yes**	STL	No		https://www.kickstarter.com/projects/406097865/ar2-6-axis-robot-aluminum-parts-kits	2018-04-12
+Bender					http://www.rohitkalaskar.com/bender/	2018-04-12
