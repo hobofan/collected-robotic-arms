@@ -74,6 +74,9 @@ You can also view the data [in table form!](./arms.tsv)
   -  [Kickstarter](https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### 7Bot
@@ -95,6 +98,9 @@ http://www.7bot.cc/ website dead; no way to purchase
   Links:
   
   -  [Kickstarter](https://www.kickstarter.com/projects/1128055363/7bot-a-powerful-desktop-robot-arm-for-future-inven)
+  
+
+  Available for purchase: No
   
 
   Updated: 2018-04-12
@@ -126,6 +132,9 @@ The Kickstarter 'uArm' arm is not available anymore, and has been superceded by 
   -  [Kickstarter](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your)
   
 
+  Available for purchase: **Yes**
+  Cost: 500
+
   Updated: 2018-04-12
 
   ### uArm Swift Pro
@@ -148,6 +157,9 @@ The Kickstarter 'uArm' arm is not available anymore, and has been superceded by 
   
   -  [Kickstarter](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your)
   
+
+  Available for purchase: **Yes**
+  Cost: 840
 
   Updated: 2018-04-12
 
@@ -172,6 +184,9 @@ Funded via Kickstarter. Can be 'pre-ordered' from online store, but store also i
   -  [Company website](https://www.niryo.com)
   
   -  [Kickstarter](https://www.kickstarter.com/projects/niryo/niryo-one-an-open-source-6-axis-robotic-arm-just-f)
+  
+
+  Available for purchase: No
   
 
   Updated: 2018-04-12
@@ -202,6 +217,9 @@ Started out as a university project. Very well documented.
   -  [Thingiverse](https://www.thingiverse.com/thing:1743075)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### BetaBots-Robot-Arm-Project
@@ -229,6 +247,9 @@ Last update on GitHub in 2016.
   -  [Thingiverse](https://www.thingiverse.com/thing:1743075)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### BCN3D Moveo
@@ -254,6 +275,9 @@ Last update on GitHub in 2016.
   -  [Announcement blog post](https://www.bcn3dtechnologies.com/en/bcn3d-moveo-the-future-of-learning/)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### Lite Arm i2
@@ -275,6 +299,9 @@ Last update on Thingiverse in 2015.
   -  [Thingiverse](https://www.thingiverse.com/thing:480446)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### Robotic arm with 6 DOF by ancastrog
@@ -292,6 +319,9 @@ Last update on Thingiverse in 2015.
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:30163)
+  
+
+  Available for purchase: No
   
 
   Updated: 2018-04-12
@@ -313,6 +343,9 @@ Last update on Thingiverse in 2015.
   -  [Thingiverse](https://www.thingiverse.com/thing:2433)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### Scara robotic arm by Idegraaf
@@ -330,6 +363,9 @@ Last update on Thingiverse in 2015.
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:1241491)
+  
+
+  Available for purchase: No
   
 
   Updated: 2018-04-12
@@ -360,6 +396,9 @@ Kickstarter announced for project in March 2018. Marking this as not purchasable
   -  [Github repo](https://github.com/Chris-Annin/AR2)
   
 
+  Available for purchase: No
+  
+
   Updated: 2018-04-12
 
   ### Bender
@@ -381,6 +420,9 @@ Last update on GitHub in 2015.
   -  [Website](http://www.rohitkalaskar.com/bender/)
   
   -  [Github repo](https://github.com/OpenArmFramework/bender_description)
+  
+
+  Available for purchase: No
   
 
   Updated: 2018-04-12
