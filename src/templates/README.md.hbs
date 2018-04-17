@@ -45,6 +45,9 @@ You can also view the data [in table form!](./arms.tsv)
   -  [{{this.name}}]({{this.href}})
   {{/each}}
 
+  Available for purchase: {{ this.available_for_purchase }}
+  {{# if this.cost_usd }}Cost: {{ this.cost_usd }}{{/if}}
+
   Updated: {{ this.updated }}
 {{/each}}
 

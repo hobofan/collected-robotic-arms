@@ -14,6 +14,7 @@
 #   updated: date in YYYY-MM-DD format when information was added/updated/revised/confirmed
 #   available_for_purchase ("**Yes**"|"No"):
 #     Whether the arm is available for purchase, as a kit, or in assembled form
+#   cost_usd: Cost in US dollars of assembled arm (or kit, if that's the only available form)
 
 [[robotic_arms]]
 id = "dobot-m1"
@@ -57,6 +58,7 @@ id = "uarmswift"
 name = "uArm Swift"
 updated = "2018-04-12"
 available_for_purchase = "**Yes**"
+cost_usd = "500"
 description = """
 > uArm: Put a Miniature Industrial Robot Arm on Your Desk
 >
@@ -84,6 +86,7 @@ id = "uarmswiftpro"
 name = "uArm Swift Pro"
 updated = "2018-04-12"
 available_for_purchase = "**Yes**"
+cost_usd = "840"
 description = """
 Also see other arm listed here, the uArm Swift.
 """
@@ -294,7 +297,8 @@ Documentation includes an assembly guide.
 
 Uses an Arduino as a stepper driver and includes a custom Python program and Windows GUI to control it.
 
-Kickstarter announced for project in March 2018. Marking this as not purchasable for now.
+Kickstarter project (launched in March 2018) was cancelled in April 2018.
+
 """
 
 open_hardware_files_available = "**Yes**"
