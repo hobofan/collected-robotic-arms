@@ -378,7 +378,8 @@ Documentation includes an assembly guide.
 
 Uses an Arduino as a stepper driver and includes a custom Python program and Windows GUI to control it.
 
-Kickstarter announced for project in March 2018. Marking this as not purchasable for now.
+Kickstarter project (launched in March 2018) was cancelled in April 2018.
+
 
 
   Open Hardware files available: **Yes**
