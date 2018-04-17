@@ -9,7 +9,9 @@ You can also view the data [in table form!](./arms.tsv)
 - [Resources](#resources)
 - [Robotic Arms](#robotic-arms)
   
-  - [Dobot M1](#dobot-m1)
+  - [DOBOT M1](#dobot-m1)
+  
+  - [DOBOT Magician](#dobot-magician)
   
   - [7Bot](#7bot)
   
@@ -55,7 +57,7 @@ You can also view the data [in table form!](./arms.tsv)
 ## Robotic Arms
 
 
-  ### Dobot M1
+  ### DOBOT M1
   Funded via Kickstarter. No way to purchase (other DOBOT arms, such as the Magician, are available for purchase)
 
 
@@ -78,6 +80,28 @@ You can also view the data [in table form!](./arms.tsv)
   
 
   Updated: 2018-04-12
+
+  ### DOBOT Magician
+  DOBOT Magician is a multifunctional desktop robotic arm for practical training education.
+
+
+  Open Hardware files available: No
+
+  
+
+  Open Hardware source available: No
+
+  
+
+  Links:
+  
+  -  [Website](https://www.dobot.cc/dobot-magician/product-overview.html)
+  
+
+  Available for purchase: **Yes**
+  Cost: 1500
+
+  Updated: 2018-04-17
 
   ### 7Bot
   > A low cost Robotic Arm that can See, Think and Learn!

@@ -18,7 +18,7 @@
 
 [[robotic_arms]]
 id = "dobot-m1"
-name = "Dobot M1"
+name = "DOBOT M1"
 open_hardware_files_available = "No"
 open_hardware_source_available = "No"
 updated = "2018-04-12"
@@ -34,6 +34,22 @@ Funded via Kickstarter. No way to purchase (other DOBOT arms, such as the Magici
   [[robotic_arms.links]]
   name = "Kickstarter"
   href = "https://www.kickstarter.com/projects/dobot/dobot-m1-pro-robotic-arm-for-makers-and-businesses"
+
+[[robotic_arms]]
+id = "dobot-magician"
+name = "DOBOT Magician"
+open_hardware_files_available = "No"
+open_hardware_source_available = "No"
+updated = "2018-04-17"
+available_for_purchase = "**Yes**"
+cost_usd = "1500"
+description = """
+DOBOT Magician is a multifunctional desktop robotic arm for practical training education.
+"""
+
+  [[robotic_arms.links]]
+  name = "Website"
+  href = "https://www.dobot.cc/dobot-magician/product-overview.html"
 
 
 [[robotic_arms]]
