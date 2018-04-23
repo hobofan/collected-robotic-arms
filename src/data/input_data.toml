@@ -15,6 +15,7 @@
 #   available_for_purchase ("**Yes**"|"No"):
 #     Whether the arm is available for purchase, as a kit, or in assembled form
 #   cost_usd: Cost in US dollars of assembled arm (or kit, if that's the only available form)
+#   DOF: number of degrees of freedom
 
 [[robotic_arms]]
 id = "dobot-m1"
@@ -23,6 +24,7 @@ open_hardware_files_available = "No"
 open_hardware_source_available = "No"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "4"
 description = """
 Funded via Kickstarter. No way to purchase (other DOBOT arms, such as the Magician, are available for purchase)
 """
@@ -43,6 +45,7 @@ open_hardware_source_available = "No"
 updated = "2018-04-17"
 available_for_purchase = "**Yes**"
 cost_usd = "1500"
+DOF = "4"
 description = """
 DOBOT Magician is a multifunctional desktop robotic arm for practical training education.
 """
@@ -57,6 +60,7 @@ id = "7bot"
 name = "7Bot"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6"
 description = """
 > A low cost Robotic Arm that can See, Think and Learn!
 
@@ -75,6 +79,7 @@ name = "uArm Swift"
 updated = "2018-04-12"
 available_for_purchase = "**Yes**"
 cost_usd = "500"
+DOF = "4"
 description = """
 > uArm: Put a Miniature Industrial Robot Arm on Your Desk
 >
@@ -103,6 +108,7 @@ name = "uArm Swift Pro"
 updated = "2018-04-12"
 available_for_purchase = "**Yes**"
 cost_usd = "840"
+DOF = "4"
 description = """
 Also see other arm listed here, the uArm Swift.
 """
@@ -124,6 +130,7 @@ id = "niryo-one"
 name = "Niryo One"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6"
 description = """
 > Niryo One, an open source 6 axis robotic arm, just for you
 >
@@ -145,6 +152,7 @@ id = "thor"
 name = "Thor"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6"
 description = """
 > Thor is an Open Source and printable robotic arm with six degrees of freedom, designed using FreeCAD.
 
@@ -175,6 +183,7 @@ id = "betabots-robot-arm-project"
 name = "BetaBots-Robot-Arm-Project"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6?"
 description = """
 > My printable robot arm is inspired by the well known industry robots, but printable.
 The goal is to develop a open source robot arm to use in private or small businesses and make robot development available for every one.
@@ -205,6 +214,7 @@ id = "bcn3d-moveo"
 name = "BCN3D Moveo"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6"
 description = """
 > Open Source 3D Printed Robotic Arm for educational purposes
 
@@ -231,6 +241,7 @@ id = "lite-arm-i2"
 name = "Lite Arm i2"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "3?"
 description = """
 > Open Source Robotic Arm
 
@@ -250,6 +261,7 @@ id = "robotic-arm-with-6-dof-by-ancastrog"
 name = "Robotic arm with 6 DOF by ancastrog"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6"
 description = """
 > This is the low-cost prototype of a robotic arm with 6 DOF, 3D printers manufactured and designed using free software (OpenScad, Inksape..).
 """
@@ -268,6 +280,7 @@ id = "robotic-arm-with-7-servos-by-jjshortcut"
 name = "Robotic arm with 7 servos by jjshortcut"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "4?"
 description = """
 > Robotic arm made of 4mm hardboard with a 3-axis cnc, it is also printable.
 """
@@ -287,6 +300,7 @@ id = "scara-robotic-arm-by-idegraaf"
 name = "Scara robotic arm by Idegraaf"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "3?"
 description = """
 > Scara robotic arm for educational purposes. Not tested yet.
 """
@@ -305,6 +319,7 @@ id = "ar2-by-chris-annin"
 name = "AR2 by Chris-Annin"
 updated = "2018-04-12"
 available_for_purchase = "No"
+DOF = "6"
 description = """
 6-axis stepper motor robot.
 All parts are designed to be 3d printable or widely available.
@@ -334,6 +349,7 @@ id = "bender"
 name = "Bender"
 available_for_purchase = "No"
 updated = "2018-04-12"
+DOF = "6?"
 description = """
 > A robot arm with an Open Source framework to develop useful applications
 

@@ -69,6 +69,8 @@ You can also view the data [in table form!](./arms.tsv)
 
   
 
+  DOF: 4
+
   Links:
   
   -  [Website](https://www.dobot.cc/dobot-m1/product-overview.html)
@@ -92,6 +94,8 @@ You can also view the data [in table form!](./arms.tsv)
   Open Hardware source available: No
 
   
+
+  DOF: 4
 
   Links:
   
@@ -118,6 +122,8 @@ http://www.7bot.cc/ website dead; no way to purchase
   Open Hardware source available: Unknown
 
   
+
+  DOF: 6
 
   Links:
   
@@ -147,6 +153,8 @@ The Kickstarter 'uArm' arm is not available anymore, and has been superceded by 
 
   
 
+  DOF: 4
+
   Links:
   
   -  [Product page](http://www.ufactory.cc/#/en/uarmswift)
@@ -172,6 +180,8 @@ The Kickstarter 'uArm' arm is not available anymore, and has been superceded by 
   Open Hardware source available: Unknown
 
   
+
+  DOF: 4
 
   Links:
   
@@ -203,6 +213,8 @@ Funded via Kickstarter. Can be 'pre-ordered' from online store, but store also i
 
   
 
+  DOF: 6
+
   Links:
   
   -  [Company website](https://www.niryo.com)
@@ -231,6 +243,8 @@ Started out as a university project. Very well documented.
   Open Hardware source available: **Yes**
 
   Open Hardware source formats: FreeCAD
+
+  DOF: 6
 
   Links:
   
@@ -262,6 +276,8 @@ Last update on GitHub in 2016.
 
   Open Hardware source formats: Inventor
 
+  DOF: 6?
+
   Links:
   
   -  [Github repo](https://github.com/4ndreas/BetaBots-Robot-Arm-Project)
@@ -292,6 +308,8 @@ Last update on GitHub in 2016.
 
   Open Hardware source formats: Solidworks
 
+  DOF: 6
+
   Links:
   
   -  [Github repo](https://github.com/BCN3D/BCN3D-Moveo)
@@ -318,6 +336,8 @@ Last update on Thingiverse in 2015.
 
   
 
+  DOF: 3?
+
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:480446)
@@ -339,6 +359,8 @@ Last update on Thingiverse in 2015.
   Open Hardware source available: **Yes**
 
   Open Hardware source formats: OpenSCAD,FreeCAD (mounted arm)
+
+  DOF: 6
 
   Links:
   
@@ -362,6 +384,8 @@ Last update on Thingiverse in 2015.
 
   Open Hardware source formats: Solidworks
 
+  DOF: 4?
+
   Links:
   
   -  [Thingiverse](https://www.thingiverse.com/thing:2433)
@@ -383,6 +407,8 @@ Last update on Thingiverse in 2015.
   Open Hardware source available: **Yes**
 
   Open Hardware source formats: SketchUp
+
+  DOF: 3?
 
   Links:
   
@@ -414,6 +440,8 @@ Kickstarter project (launched in March 2018) was cancelled in April 2018.
 
   
 
+  DOF: 6
+
   Links:
   
   -  [Kickstarter](https://www.kickstarter.com/projects/406097865/ar2-6-axis-robot-aluminum-parts-kits)
@@ -439,6 +467,8 @@ Last update on GitHub in 2015.
   Open Hardware source available: Unknown
 
   
+
+  DOF: 6?
 
   Links:
   
