@@ -44,7 +44,6 @@ You can also view the data [in table form!](./arms.tsv)
 
 ## Resources
 
-- [robotarm.org](https://robotarm.org/) - Open Source robotic arm news
 - [How many axes does my robot need?](http://robohub.org/how-many-axes-does-my-robot-need/)
 - [The Difference between Cartesian, Six-Axis, and SCARA Robots](http://www.machinedesign.com/motion-control/difference-between-cartesian-six-axis-and-scara-robots)
 - [List of arms supported by ROS (Robot Operating System)](http://robots.ros.org/tags/#arm)
