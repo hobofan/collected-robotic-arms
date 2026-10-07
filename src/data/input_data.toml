@@ -363,3 +363,36 @@ Last update on GitHub in 2015.
   [[robotic_arms.links]]
   name = "Github repo"
   href = "https://github.com/OpenArmFramework/bender_description"
+
+[[robotic_arms]]
+id = "so-arm-102"
+name = "SO-ARM 102 by Robonine"
+open_hardware_files_available = "**Yes**"
+open_hardware_files_formats = "STL, 3MF"
+open_hardware_source_available = "**Yes**"
+open_hardware_source_formats = "STEP"
+updated = "2026-10-07"
+available_for_purchase = "**Yes**"
+DOF = "5 + gripper"
+description = """
+3D-printable leader-follower arm for teleoperation and imitation learning using
+the LeRobot SO-101 workflow. Includes a parallel gripper, editable CAD, print
+files, a bill of materials, assembly instructions, and a follower URDF/Xacro.
+Hardware designs are licensed under CERN-OHL-P-2.0.
+
+<a href='https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/video/so-arm-102-preview.mp4'><img src='https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg' alt='SO-ARM 102 follower by Robonine' width='640' height='360'></a>
+
+Photo: Robonine, CC BY 4.0. The linked hardware preview is 21.5 seconds.
+"""
+
+  [[robotic_arms.links]]
+  name = "GitHub repository"
+  href = "https://github.com/roboninecom/SO-ARM-102"
+
+  [[robotic_arms.links]]
+  name = "Bill of materials"
+  href = "https://github.com/roboninecom/SO-ARM-102/blob/main/docs/bom.md"
+
+  [[robotic_arms.links]]
+  name = "Kit product page"
+  href = "https://robonine.com/shop/so-arm102-robotic-arm-kit/"
